@@ -86,7 +86,6 @@ function DevForm({onSubmit}) {
               required 
               value={longitude}
               onChange={ e => setLongitude(e.target.value)}/>
-              />
             </div>
           </div>
 
