@@ -43,10 +43,10 @@ localhost:3000
 
 and the mobile will start when you open the app [Expo].
 
-Thank you so much for having interest in my project.
-If you have any questions please contact me!
+>Thank you so much for having interest in my project.
+>If you have any questions please contact me!
 
-My discord: lint#5716
+>My discord: lint#5716
 
 License
 ----
